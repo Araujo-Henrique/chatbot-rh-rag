@@ -16,6 +16,13 @@ O chatbot foi construído utilizando automação no n8n, Inteligência Artificia
 - docs/ → imagens e diagramas
 - README.md → explicação do projeto
 
+## Tecnologias
+
+- n8n (automação)
+- JSON (workflow de integração)
+- Cohere (IA generativa)
+- MySQL (banco de dados)
+- 
 ## Problema Resolvido
 
 Empresas frequentemente recebem dúvidas repetitivas relacionadas a:
