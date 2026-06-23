@@ -10,6 +10,12 @@ O chatbot foi construído utilizando automação no n8n, Inteligência Artificia
 
 ---
 
+## Estrutura do projeto
+
+- chatbot-rh → export do n8n (fluxo principal)
+- docs/ → imagens e diagramas
+- README.md → explicação do projeto
+
 ## Problema Resolvido
 
 Empresas frequentemente recebem dúvidas repetitivas relacionadas a:
